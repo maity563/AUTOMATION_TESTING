@@ -26,4 +26,13 @@
     
     ![image](https://github.com/maity563/AUTOMATION_TESTING/assets/105879104/db9a3c51-b0bd-42a5-8a8d-0fac4a78d2cf)
 
+5) Testing with EMPTY FIELDS
+
+        i) Tested in Google Chrome
+         ii) Tested in Mozilla Firefox
+
+   ![image](https://github.com/maity563/AUTOMATION_TESTING/assets/105879104/15de4915-0fc5-482c-95a5-6ac3d8e093f0)
+
+       
+
 
