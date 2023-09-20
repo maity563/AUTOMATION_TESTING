@@ -18,10 +18,12 @@
 
  ![image](https://github.com/maity563/AUTOMATION_TESTING/assets/105879104/b0f0c02b-6be8-48ce-9279-3e058925967b)
 
- 3) INVALID PASSWORD
-        i) Tested in Google Chrome
-       ii) Tested in Mozilla Firefox
+ 4) INVALID PASSWORD
 
+         i) Tested in Google Chrome
+       ii) Tested in Mozilla Firefox
+       
+    
     ![image](https://github.com/maity563/AUTOMATION_TESTING/assets/105879104/db9a3c51-b0bd-42a5-8a8d-0fac4a78d2cf)
 
 
