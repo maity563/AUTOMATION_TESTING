@@ -16,4 +16,5 @@
          i) Tested in Google Chrome
        ii) Tested in Mozilla Firefox
 
-    ![image](https://github.com/maity563/AUTOMATION_TESTING/assets/105879104/57cddc67-e79f-4122-9bb9-0f79d7c1f416)
+ ![image](https://github.com/maity563/AUTOMATION_TESTING/assets/105879104/b0f0c02b-6be8-48ce-9279-3e058925967b)
+
